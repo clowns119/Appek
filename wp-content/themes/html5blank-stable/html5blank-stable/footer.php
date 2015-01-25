@@ -1,6 +1,6 @@
 <div class="wrapper">
   <div id="footer">
-      <img src="http://appek.azurewebsites.net/wp-content/uploads/2015/01/AppekFooter.png" alt="Appek" />
+      <img src="http://www.appekapps.com/wp-content/uploads/2015/01/AppekFooter.png" alt="Appek" />
     <div class="footbox first">
       <h2>Visit The App House</h2>
       <ul>
@@ -41,9 +41,9 @@
     <p class="fl_left">&copy; APPEK  2013 <a href="#"></a></p>
     <div class="fl_right">
         <ul>
-            <li><a href="#"><img src="http://appek.azurewebsites.net/wp-content/uploads/2015/01/fb.png" alt="facebook"></a></li>
-            <li><a href="#"><img src="http://appek.azurewebsites.net/wp-content/uploads/2015/01/twitter.png" alt="twitter"></a></li>
-            <li><a href="#"><img src="http://appek.azurewebsites.net/wp-content/uploads/2015/01/linkedin.png" alt="linkedin"></a></li>
+            <li><a href="#"><img src="http://www.appekapps.com/wp-content/uploads/2015/01/fb.png" alt="facebook"></a></li>
+            <li><a href="#"><img src="http://www.appekapps.com/wp-content/uploads/2015/01/twitter.png" alt="twitter"></a></li>
+            <li><a href="#"><img src="http://www.appekapps.com/wp-content/uploads/2015/01/linkedin.png" alt="linkedin"></a></li>
         </ul>
         </div>
     <br class="clear" />

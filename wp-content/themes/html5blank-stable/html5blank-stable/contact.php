@@ -46,9 +46,9 @@ Template Name: Contact
                             <div class="submitButton"><input type="submit" class=submit value="Send" /></div>
                             </div>
                     </form>
-                    <img src="http://appek.azurewebsites.net/wp-content/uploads/2015/01/scranton.png"/>
+                    <img src="http://www.appekapps.com/wp-content/uploads/2015/01/scranton.png"/>
                     <h3 id="scrantonText">Made with pride in Scranton, PA</h3>
-                    <img src="http://appek.azurewebsites.net/wp-content/uploads/2015/01/address.png"/>
+                    <img src="http://www.appekapps.com/wp-content/uploads/2015/01/address.png"/>
                     
                     </div>
                     </div>

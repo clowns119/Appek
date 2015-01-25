@@ -28,7 +28,7 @@
 		<div class="wrapper">
   <div id="header">
     <div id="logo">
-      <h1><a href="index/"><img src="http://appek.azurewebsites.net/wp-content/uploads/2015/01/cornerLogo.png" alt="Appek the house app"></a></h1>
+      <h1><a href="index/"><img src="http://www.appekapps.com/wp-content/uploads/2015/01/cornerLogo.png" alt="Appek the house app"></a></h1>
     </div>
     				<!-- nav -->
 					<div id="topnav">
