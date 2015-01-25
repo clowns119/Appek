@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+    .Table
+    {
+        padding: 80px 0 80px 0;
+        display: table;
+        padding-left: 60px;
+    }
+    .Title
+    {
+        display: table-caption;
+        text-align: center;
+        font-weight: bold;
+        font-size: larger;
+    }
+    .Heading
+    {
+        display: table-row;
+        font-weight: bold;
+        text-align: center;
+    }
+    .Row
+    {
+        display: table-row;
+    }
+    .Cell
+    {
+        display: table-cell;
+        padding: 10px;
+    }
